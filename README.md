@@ -1,7 +1,7 @@
-### Hi there 👋
 
-<h1 style="color: cian, align-itens:center;">Olá, sou Lucas Tavares!</h1>
 
+### <h1 style="color: cian, text-align:center;">Olá, sou Lucas Tavares! 👋</h1>
+### <p style="text-align: center;"></p>
 <!--
 **LucasTavare/LucasTavare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
